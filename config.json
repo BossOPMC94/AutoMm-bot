@@ -1,8 +1,8 @@
 {
-    "developer": "scarlxrd1337",
+    "developer": "notlol95",
     "token": "token",
     "buyer": null,
-    "color": "hex_color",
+    "color": "#000000",
     "footer": "Your footer",
     "blockcypher": "blockcypher api key",
     "whitelist": [],
